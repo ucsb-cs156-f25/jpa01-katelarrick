@@ -1,6 +1,4 @@
-# STARTER-jpa01
-
-* jpa01-katelarrick
+# jpa01-katelarrick
 
 * Deployed at: https://jpa01-katelarrick.dokku-01.cs.ucsb.edu
 
