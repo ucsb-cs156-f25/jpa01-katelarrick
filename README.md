@@ -1,6 +1,6 @@
 # jpa01-katelarrick
 
-Deployed at: https://jpa01-katelarrick.dokku-01.cs.ucsb.edu
+Deployed at: https://jpa01-katelarrick.dokku-01.cs.ucsb.edu/
 
 # About this repo
 
